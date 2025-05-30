@@ -1,15 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  <channel>
-    <title>Sample RSS Feed</title>
-    <link>https://example.com/</link>
-    <description>This is a sample RSS feed with a PDF link.</description>
-    <item>
-      <title>Sample PDF Document</title>
-      <link>https://staticdocssite.netlify.app/docs/document1.pdf</link>
-      <description>A link to a sample PDF document. Replace the link with your actual PDF URL.</description>
-      <guid>https://example.com/sample.pdf</guid>
-      <pubDate>Fri, 30 May 2025 05:33:17 +0000</pubDate>
-    </item>
-  </channel>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.fda.gov/">
+<channel>
+<title>Approval letter Testing</title>
+<link>https://testingweb001.netlify.app/</link>
+<description/>
+<language>en</language>
+<item>
+<title>Supplement Approval for the Drug</title>
+<link>https://testingweb001.netlify.app/docs/Doc_Sup001.pdf</link>
+<description>Use of Baxter MiniCap Extended Life PD Transfer Sets during peritoneal dialysis may expose patients to higher than allowable NDL-PCBAs.</description>
+<pubDate>Mon, 31 Mar 2025 00:00:00 EDT</pubDate>
+<dc:creator>FDA</dc:creator>
+<guid isPermaLink="true">http://www.fda.gov/medical-devices/medical-device-recalls/peritoneal-dialysis-set-correction-baxter-issues-correction-minicap-extended-life-peritoneal</guid>
+</item>
+
+</channel>
 </rss>

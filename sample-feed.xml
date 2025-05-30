@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Sample RSS Feed</title>
+    <link>https://example.com/</link>
+    <description>This is a sample RSS feed with a PDF link.</description>
+    <item>
+      <title>Sample PDF Document</title>
+      <link>https://staticdocssite.netlify.app/docs/document1.pdf</link>
+      <description>A link to a sample PDF document. Replace the link with your actual PDF URL.</description>
+      <guid>https://example.com/sample.pdf</guid>
+      <pubDate>Fri, 30 May 2025 05:33:17 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

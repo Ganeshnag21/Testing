@@ -2,13 +2,13 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://www.fda.gov/">
 <channel>
 <title>Approval letter Testing</title>
-<link>https://testingweb001.netlify.app/</link>
+<link>https://gorgeous-beignet-5374fd.netlify.app/</link>
 <description>Drug approval letters and documents</description>
 <language>en</language>
  
     <item>
 <title>Supplement Approval for the Drug</title>
-<link>https://testingweb001.netlify.app/docs/Document1.pdf</link>
+<link>https://gorgeous-beignet-5374fd.netlify.app/Doc_Sup001.pdf</link>
 <description>Use of Baxter MiniCap Extended Life PD Transfer Sets during peritoneal dialysis may expose patients to higher than allowable NDL-PCBAs.</description>
 <pubDate>Mon, 31 Mar 2025 00:00:00 EDT</pubDate>
 <dc:creator>FDA</dc:creator>
@@ -17,7 +17,7 @@
  
     <item>
 <title>Supplement Approval for the Drug2</title>
-<link>https://testingweb001.netlify.app/docs/Document2.pdf</link>
+<link>https://gorgeous-beignet-5374fd.netlify.app/Doc_Sup002.pdf</link>
 <description>Approval document for Drug2.</description>
 <pubDate>Tue, 01 Apr 2025 00:00:00 EDT</pubDate>
 <dc:creator>FDA</dc:creator>
@@ -26,7 +26,7 @@
  
     <item>
 <title>Supplement Approval for the Drug3</title>
-<link>https://testingweb001.netlify.app/docs/Document3.pdf</link>
+<link>https://gorgeous-beignet-5374fd.netlify.app/Doc_Sup003.pdf</link>
 <description>Approval document for Drug3.</description>
 <pubDate>Wed, 02 Apr 2025 00:00:00 EDT</pubDate>
 <dc:creator>FDA</dc:creator>
